@@ -1,0 +1,7 @@
+{
+  "name": "India Post Smart Parcel Tracker",
+  "description": "A high-fidelity replica of a parcel tracking dashboard featuring real-time satellite maps, weather-driven AI delay predictions, and branding inspired by India Post.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
